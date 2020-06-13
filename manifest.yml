@@ -1,0 +1,5 @@
+# manifest.yml
+applications:
+    - name: byecorona
+      random-route: true
+      memory: 128M
